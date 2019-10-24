@@ -1,0 +1,13 @@
+.card-top {
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.skills img.card-img-top {
+    width: auto;
+    height: 100%;
+} 
